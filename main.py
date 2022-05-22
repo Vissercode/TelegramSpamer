@@ -23,4 +23,4 @@ def main():
 if __name__ == '__main__':
     while True:
         main()
-        time.sleep(3000)
+        time.sleep(config.sleeptime)
